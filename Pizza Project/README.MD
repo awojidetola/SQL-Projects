@@ -3,9 +3,10 @@ A year's worth of sales from a fictitious pizza place, including the date and ti
 
 ## Files & Description
 
-- Order Details : Provides details on the order_id, pizza_id, quantity of order.
-- Orders: Provides details on the date and time of order.
-- Pizzas: Provides details on the pizza: Size and Price
-- Pizza Types: Provides detials on the pizza name, category and ingredients.
+- Order Details : This data provides details on the order_id, pizza_id, quantity of order.
+- Orders: This data provides details on the date and time of order.
+- Pizzas: This data provides details on the pizza: Size and Price
+- Pizza Types: This data provides detials on the pizza name, category and ingredients.
+- Query.sql : This includes the SQL Queries used to explore sales in Pizza Place
 
 Data Credit : **MavenAnalytics.**
