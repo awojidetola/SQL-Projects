@@ -11,3 +11,4 @@ The database consists of the following tables:
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
+![ERD](https://user-images.githubusercontent.com/49078266/211865925-25fca908-b422-4d47-8292-936667960341.JPG)
