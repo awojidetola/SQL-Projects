@@ -6,6 +6,8 @@ The database consists of the following tables:
 
 - Returns : Contains list of orders that were returned, and those that weren’t
 
+
+
 - People  : Contains list of sales people and their regions.
 
 
@@ -18,3 +20,10 @@ The database consists of the following tables:
 + Find the salesperson that handled the highest number of orders
 + Which country had the best profit?
 + Which country had the worst loss?
++ Which date had the highest number of returned orders?
++ Which city had the highest number of returned orders?
++ Which category had the greatest profit
++ Which sub category had the highest number of orders?
++ Which product had the greatest sales?
++ Which customer ordered the most?
++ What is the most preferred ship mode
