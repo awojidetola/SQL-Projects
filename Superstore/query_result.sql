@@ -12,4 +12,16 @@ ON o.region = p.region
 GROUP BY p.person
 ORDER BY no_orders DESC;
 
-/**/
+/*Which state had the best totalprofit?*/
+SELECT country_state, SUM(profit) AS profit
+FROM orders
+GROUP BY country_state
+ORDER BY profit DESC
+limit 1;
+
+/*Which state had the worst total loss?*/
+SELECT country_state, SUM(profit) AS loss
+FROM orders
+GROUP BY country_state
+ORDER BY loss 
+limit 1;
